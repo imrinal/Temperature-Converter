@@ -16,4 +16,49 @@ Suppose the user enters:
 - Temperature value: `32`
 - Unit of measurement: `C` (for Celsius)
 
-The program will convert 32°C to Fahrenheit and output the result.
+## Output
+
+```plaintext
+---------------------------------------------------------
+          Welcome to the Temperature Converter!          
+---------------------------------------------------------
+Please select a conversion type:
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 1
+---------------------------------------------------------
+
+Enter the temperature in Celsius: 25
+Converting 25.0°C to Fahrenheit...
+Result: 25.0°C is equal to 77.0°F
+---------------------------------------------------------
+
+
+
+---------------------------------------------------------
+          Welcome to the Temperature Converter!          
+---------------------------------------------------------
+Please select a conversion type:
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 2
+---------------------------------------------------------
+
+Enter the temperature in Fahrenheit: 77
+Converting 77.0°F to Celsius...
+Result: 77.0°F is equal to 25.0°C
+---------------------------------------------------------
+
+
+
+---------------------------------------------------------
+          Welcome to the Temperature Converter!          
+---------------------------------------------------------
+Please select a conversion type:
+1. Celsius to Fahrenheit
+2. Fahrenheit to Celsius
+3. Exit
+Enter your choice: 3
+---------------------------------------------------------
